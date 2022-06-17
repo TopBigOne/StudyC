@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ptrace.h": "c",
+        "wait.h": "c",
+        "types.h": "c",
+        "cstdio": "cpp",
+        "cwchar": "cpp"
+    }
+}
